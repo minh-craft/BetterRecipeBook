@@ -10,6 +10,7 @@
     "MouseScrollHandler",
     "RemoveBookButton",
     "SmithingScreenMixin",
+    "accessors.AbstractContainerScreenAccessor",
     "accessors.BrewingStandMenuAccessor",
     "accessors.HolderReferenceAccessor",
     "accessors.InventoryAccessor",
